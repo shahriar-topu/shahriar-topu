@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shahriar Topu  
+# Hello, I'm Shahriar Topu  
 
 🎓 IT Student @ NJIT | 💻 Software Development Intern @ New Jersey Courts | 🌐 Full-Stack Developer  
 
