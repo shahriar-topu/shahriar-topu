@@ -48,9 +48,3 @@
 - Cisco Certified: Python Essentials 1 
 - Cisco Certified: Introduction to Cybersecurity 
 - Microsoft MTA: Introduction to Programming Using Java 
-
----
-
-## 📊 GitHub Stats
-![Shahriar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar-topu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-topu&layout=compact&theme=radical)
