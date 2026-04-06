@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 - 🔭 Currently working as a **Software Engineer** at the New Jersey Courts, architecting enterprise-scale applications and role-based access controls.
-- 🌱 Specializing in **full-stack development, cloud deployment, and system security**.
 - 🖥️ Check out my newly launched **[Personal Portfolio](https://shahriar-topu.github.io/portfolio/)**!
 - 📫 Reach me at: **shahriar.careers@gmail.com**
 - 💼 Connect with me on **[LinkedIn](https://linkedin.com/in/shahriar-topu)**
